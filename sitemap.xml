@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2017/06/03/Deploy-Hexo-envirenment-for-ubuntu-16-04/</loc>
+    <loc>http://yoursite.com/about/index.html</loc>
     
-    <lastmod>2017-06-02T16:43:14.354Z</lastmod>
+    <lastmod>2017-06-02T17:30:12.464Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/05/24/hello-world/</loc>
+    <loc>http://yoursite.com/tags/index.html</loc>
     
-    <lastmod>2016-09-23T02:23:07.000Z</lastmod>
+    <lastmod>2017-06-02T17:26:23.260Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2017-06-02T17:24:44.446Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/06/03/hello-world/</loc>
+    
+    <lastmod>2017-06-02T17:17:42.855Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/06/03/Deploy-Hexo-envirenment-for-ubuntu-16-04/</loc>
+    
+    <lastmod>2017-06-02T16:43:14.354Z</lastmod>
     
   </url>
   
